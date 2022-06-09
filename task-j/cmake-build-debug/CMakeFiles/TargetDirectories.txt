@@ -1,0 +1,3 @@
+C:/Users/ayuvasilev/Desktop/task-j/cmake-build-debug/CMakeFiles/task_j.dir
+C:/Users/ayuvasilev/Desktop/task-j/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ayuvasilev/Desktop/task-j/cmake-build-debug/CMakeFiles/rebuild_cache.dir

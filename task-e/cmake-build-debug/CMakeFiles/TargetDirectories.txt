@@ -1,0 +1,3 @@
+C:/Users/ayuvasilev/Desktop/Алгосы/task-e/cmake-build-debug/CMakeFiles/task_e.dir
+C:/Users/ayuvasilev/Desktop/Алгосы/task-e/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ayuvasilev/Desktop/Алгосы/task-e/cmake-build-debug/CMakeFiles/rebuild_cache.dir
